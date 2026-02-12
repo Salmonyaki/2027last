@@ -31,9 +31,9 @@ namespace WinFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             string text = textBox1.Text;
-            double str;
+            int str;
 
-            if (double.TryParse(text, out str))
+            if (int.TryParse(text, out str))
             {
                 MessageBox.Show("O");
             }
