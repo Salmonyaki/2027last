@@ -4,17 +4,17 @@ namespace WinFormsApp1
 {
     public partial class Form1 : Form
     {
-        //string str = "-12.34";
+        //string str = "-1.2";
         //double d;
 
 
         //int i = 0
-        //string s = "108
+        //string s = "100"
         //bool result = int.TryParse(s, out i);
 
         //int num;
         //bool isNumeric = int.TryParse(input, out result); 
-        //string input = "123";
+        //string input = "1234";
         //int result;
         //bool isNumeric = int.TryParse(input, out result);
 
@@ -47,11 +47,11 @@ namespace WinFormsApp1
             //    if (double.TryParse(str, out d))
             //        {   
 
-            //            Console.WriteLine("{0} ‚Í”’l {1} ‚É•ÏŠ·‚Å‚«‚Ü‚·B", str, d);
+            //            Console.WriteLine("O" str, d);
             //        }       
             //    else
             //        {
-            //            Console.WriteLine("{0} ‚Í”š‚Å‚Í‚ ‚è‚Ü‚¹‚ñB", str);
+            //            Console.WriteLine("X", str);
             //        }
             //}
 
